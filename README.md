@@ -8,3 +8,8 @@ Interface has the following:
 - optional BMP280/BME280 temp/pressure/humidity sensor
 - optional i2c header
 
+More info here:
+
+pcm52.com/2017/10/01/lorawan-gateway/
+
+
